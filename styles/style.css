@@ -36,12 +36,16 @@ color: #000;
   background-color: #2f80ed;
 }
 
-.logo__image_place_header {
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
   width: 183px;
   height: 32px;
+}
+
+.logo__image {
+  max-width: 100%;
 }
 
 .header__title {
@@ -280,7 +284,7 @@ color: #000;
   flex-basis: 711px;
 }
 
-.logo__image_place_footer {
+.logo_place_footer {
   width: 183px;
   height: 35px;
 }
