@@ -38,6 +38,8 @@
 
 @import url(../blocks/video/__iframes/video__iframes.css);
 
+@import url(../blocks/video/__list-item/video__list-item.css);
+
 @import url(../blocks/video/__iframe/video__iframe.css);
 
 @import url(../blocks/two-columns/two-columns.css);
